@@ -1,0 +1,27 @@
+{
+  "name": "metabolicapp",
+  "version": "1.0.0",
+  "description": "metabolic balance ios app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerrob/metabolicapp.git"
+  },
+  "keywords": [
+    "metabolic",
+    "ios",
+    "framework7"
+  ],
+  "author": "Robert Lisle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogerrob/metabolicapp/issues"
+  },
+  "homepage": "https://github.com/rogerrob/metabolicapp#readme",
+  "dependencies": {
+    "framework7": "^2.0.10"
+  }
+}

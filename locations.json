@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "location": "Hylton Castle",
+        "image": "images/hyltoncastle.jpg",
+        "header": "Hylton Castle is a distinctive and highly decorative gatehouse-tower of a castle. The castle was built by the wealthy Sir William Hylton, shortly before 1400. Originally containing four floors of family accommodation, its entrance front displays royal and family heraldry, including Richard II's white hart badge.",
+        "info": "The castle is the second oldest building in Sunderland and is situated in its own grounds alongside St Catherine's Chapel and like most ancient buildings Hylton Castle also has its own ghost - the Cauld Lad. ",
+        "map": "images/gmap/map_hcastle.jpg",
+        "mapinfo": "abc",
+        "contadd": "English Heritage, North Hylton, Sunderland SR5 3PA",
+        "contno": "0370 333 1181",
+        "contweb": "english-heritage.org.uk"
+    },
+    {
+        "id": 2,
+        "location": "Keel Square",
+        "image": "images/keelsquare.jpg",
+        "header": "Keel Square at the heart of Sunderland city centre plays host to many events and is a place full of Sunderland’s heritage",
+        "info": "The square, which was recently built and named by the public, celebrates Sunderland’s shipbuilding heritage with the ‘Keel Line’ and the ‘Propellers of the City’. The ‘Keel Line’ will contain the names of up to 9,000 ships built on the Wear and the ’Propellers of the City’ with art work by Bryan Talbot sits at the head of the ‘Keel Line’ and contains images of almost 500 workers from the shipyards.",
+        "map": "images/gmap/map_keelsqr.jpg",
+        "mapinfo": "during night time, the fountain will display a rainbow of colours",
+        "contadd": "Keel Square, City Centre, Sunderland SR1 3DZ",
+        "contno": "N/A",
+        "contweb": "http://www.seeitdoitsunderland.co.uk/keel-square"
+    },
+    {
+        "id": 3,
+        "location": "Land, Sead and Air Museum",
+        "image": "images/landsea.jpg",
+        "header": "The volunteers at the North East Land Sea and Air Museum have created several collections in one museum.",
+        "info": "The North East Aircraft Museum has a diverse collection of aircraft; from passnger aircraft to training planes and a mighty Vulcan. The Military Vehicle Museum has a collection of smaller vehicles from the armed forces such as trucks and armoured personnel carriers. The North East Land Sea and Air Museum also hosts a wide variety of special events, from transport heritage days to science-fiction themed activities.",
+        "map": "images/gmap/map_lsamuseum.jpg",
+        "mapinfo": "just off the A19 next to the Nissan Motor Manufacturing plant",
+        "contadd": "North East land sea air Museum, Sunderland SR5 3HZ",
+        "contno": "0191 5190662",
+        "contweb": "http://www.nelsam.org.uk"
+    },
+    {
+        "id": 4,
+        "location": "Maritime Heritage",
+        "image": "images/maritime2.jpg",
+        "header": "Sunderland’s 600 year old ship building and repairing heritage is celebrated and maintained by the enthusiastic volunteers of Sunderland Maritime Heritage.",
+        "info": "Tucked away in an unassuming building in Sunderland’s historic East End, Sunderland Maritime Heritage’s workshop and visitor centre is open to the public three days a week. Visitors can see progress on restoration and rebuilding with a guided tour by a knowledgeable volunteer. A growing collection of artefacts and historical information from Sunderland built ships is also on display, as are a number of impressive scale models.",
+        "map": "images/gmap/map_maritime.jpg",
+        "mapinfo": "not too far from the river wear in the east end of sunderland",
+        "contadd": "Unit 2, Church Street East, Sunderland SR1 2BB",
+        "contno": "0191 510 2540",
+        "contweb": "http://www.sunderlandmaritimeheritage.org.uk/"
+    },
+    {
+        "id": 5,
+        "location": "Washington Old Hall",
+        "image": "images/oldhall.jpg",
+        "header": "Washington Old Hall is the ancestral home of George Washington, the first president of the United States of America.",
+        "info": "The Hall is a popular regional visitor attraction and hosts a regular programme of events. It is also the destination of many American visitors, who come to see the ancestral home of their first president. In recognition of the connection with America, the Hall celebrates key festivals and events every year, such as Independence Day and Thanksgiving. It has links with various American organisations and many American visitors.",
+        "map": "images/gmap/map_oldhall.jpg",
+        "mapinfo": "just off the a1231 and in close proximity of the local primary school",
+        "contadd": "The Avenue, Washington NE38 7LE",
+        "contno": "0191 416 6879",
+        "contweb": "https://www.nationaltrust.org.uk/washington-old-hall"
+    },
+    {
+        "id": 6,
+        "location": "Penshaw Monument",
+        "image": "images/penshaw.jpg",
+        "header": "take in stunning views from this 70-foot high monument, at the top of Penshaw Hill.",
+        "info": "The monument, built in 1844, is a half-size replica of the Temple of Hephaestus in Athens and can be seen for miles around. It's one of Sunderland's best loved landmarks and even appears on the badge of Sunderland Football Club. You can climb to the very top of Penshaw Monument. From Good Friday to the end of September, the National Trust open the spiral staircase hidden inside one of the monuments pillars, letting groups of visitors up to the roof top to enjoy the view. Bookings are taken via the National Trust website. The cost is £5 per person or free to National Trust members.",
+        "map": "images/gmap/map_penshaw.jpg",
+        "mapinfo": "opposite the herrington country park",
+        "contadd": "Chester Rd, Houghton le Spring, Penshaw DH4 7NJ",
+        "contno": "01723 870423",
+        "contweb": "https://www.nationaltrust.org.uk/penshaw-monument"
+    },
+    {
+        "id": 7,
+        "location": "Roker Pier and Lighthouse",
+        "image": "images/roker-pier.jpg",
+        "header": "Sunderland’s landmark Roker Pier and lighthouse are Grade II listed and when opened in 1903 the structure was hailed as a true 'triumph of engineering'  no mean feat in an era which saw the construction of Brunel’s Clifton Suspension Bridge and Paxton’s Crystal Palace.",
+        "info": "The original lantern was gas powered, emitting a 45,000 candlepower reflected beam reputedly visible for over 15 miles out to sea. Once complete, the pier extended 2000ft (609.60m) out to sea. The pier was the brainchild of Henry Hay Wake, chief engineer of the River Wear Commissioners. It was built using granite faced blocks, each weighing up to 45 tons, constructed on shore in an area known to this day as the blockyard.",
+        "map": "images/gmap/map_rokerpier.jpg",
+        "mapinfo": "the seafront is home to many shops and chippys",
+        "contadd": "Marine Walk, Sunderland SR6 0PH",
+        "contno": "0191 520 5550",
+        "contweb": "www.rokerpier.co.uk"
+    },
+    {
+        "id": 8,
+        "location": "Ryhope Engines Museum",
+        "image": "images/ryhope-engines.jpg",
+        "header": "The Ryhope Engines Museum is based on the Ryhope Pumping Station which was built in 1868 to supply water to the Sunderland area. The station ceased operation in 1967 - after 100 years of continuous use.",
+        "info": "The Museum is now regarded as one of the finest industrial monuments in the North East of England, and is in a Grade II (starred) listed building. Although the station no longer pumps water, the two 100 horsepower beam engines are kept in working order by volunteer members of the Ryhope Engines Trust, and 'steamed' periodically for the benefit of our visitors.",
+        "map": "images/gmap/map_engmuseum.jpg",
+        "mapinfo": "Ryhope village is in close vicinicy, it also as alot of history",
+        "contadd": "Waterworks Rd, Ryhope SR2 0ND",
+        "contno": "0191 521 0235",
+        "contweb": "www.ryhopeengines.org.uk"
+    },
+    {
+        "id": 9,
+        "location": "St. Andrews Chruch",
+        "image": "images/standrews2.jpg",
+        "header": "The inside of this church has many treasures including William Morris carpets, Ernest Grimson furniture and the painted ceiling in the sanctuary depicting the creation of the sun and stars which is painted in ‘egg-tempera",
+        "info": "Sometimes known as 'the cathedral of the arts and crafts movement', St Andrew's Church, Roker, is of international importance. In the early 20th century when the seaside resort of Roker was growing, the need for a new church soon followed. Local wealthy shipyard owner John Priestman was the main benefactor and the church, designed by Edward Prior was built in 1906 - 1907. A handsome building constructed of grey magnesium limestone quarried locally at Marsden is 165 feet long with a east facing tower over 80 feet high.",
+        "map": "images/gmap/map_standrews.jpg",
+        "mapinfo": "close to roker park and the sea front",
+        "contadd": "St Andrew's Church, Talbot Rd, Sunderland SR6 9PT",
+        "contno": "0191 516 0135",
+        "contweb": "www.monkwearmouthcofe.com"
+    },
+    {
+        "id": 10,
+        "location": "St. Peters Church",
+        "image": "images/stpeters.jpg",
+        "header": "The Anglo-Saxon church of St Peter's was built in 674AD by local nobleman Benedict Biscop.",
+        "info": "It is one of the UK's earliest stone churches and parts of the original church are still standing, including the West Wall, porch and stone carvings. St Peter's was also once home to Venerable Bede, one of our greatest ever scholars. Set on the riverside, St Peter's features a craft shop and interactive displays, as well as a coffee shop serving homemade delicacies a working church allotment garden and bee hives.",
+        "map": "images/gmap/map_stpeters.jpg",
+        "mapinfo": "Located next to the Sunderland University st. peters campus & the national glass center",
+        "contadd": "St Peters' Way, Sunderland SR6 0DY",
+        "contno": "0191 516 0135",
+        "contweb": "stpeters-wearmouth.org.uk"
+    }
+]

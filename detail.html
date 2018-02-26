@@ -1,0 +1,32 @@
+<div class="navbar">
+    <div class="navbar-inner">
+        <div class="left sliding"><a href="#" class="back link"><i class="iconicon-back"></i><span>Back</span></a></div>
+            <div class="center sliding">{{location}}</div>
+    </div>
+</div>
+<div class="pages">
+    <div data-page="list" class="page">
+        <div class="page-content">
+            <div class="content-block inset">
+                <div class="content-block-inner">
+                    <!-- image of the historic place -->
+                        <div class="card-content"> <img src="{{image}}" width="100%" class=""></div>
+                    <!-- header that contains basic information of place -->
+                        <h4>{{header}}</h4>
+                    <!-- more information of the place -->
+                        <p>{{info}}</p>
+                    <!-- google maps image of the location -->
+                        <div class="card-content"> <img src="{{map}}" width="100%" class=""></div>
+						<div class="card-footer">{{mapinfo}}</div>
+                    <!-- contatct information -->
+                    <h4>Contact Details</h4>
+                    <ul>
+                        <li>{{contadd}}</li>
+                        <li>{{contno}}</li>
+                        <li>{{contweb}}</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
