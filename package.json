@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/rogerrob/metabolicapp#readme",
   "dependencies": {
-    "framework7": "^2.0.10"
+    "framework7": "^2.0.10",
+    "http-server": "^0.11.1"
   }
 }
